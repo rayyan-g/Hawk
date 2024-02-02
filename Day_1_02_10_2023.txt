@@ -1,0 +1,235 @@
+Date:- 24-07-2023
+
+Welcome To CDS Code Solutions
+Trainee:- Amar 
+
+
+Introduction to the Course
+
+➤Data Engineering and Python Development
+	 1) Python (core  and advance)
+	 2) SQl (Basic and Advance)
+	 3) Big Data Concept (Pyspark, Spark, Hadoop)
+	 4) Cloud Technology (Azure , AWS)
+	 
+➤ Task Managment Tool
+	 1) Jira
+	 2) Agile
+	 3) Serum 
+	 1) Git
+	 2) Jenkis
+ 
+ 
+➤ Communication Tools
+	 Ms team
+	 slack
+	 Google meet
+	 zoom
+ 
+ 
+➤ Email Writing :- Professional Email
+ 
+➤ Job related to cousre
+	 
+	 ● Python + Spark, Hadoop =  Big Data Engineer or Spark Developer, Hadoop Developer,
+	 ● Python + sql + Big Data = Data Engineer
+	 ● Python + sql + Big Data + (Azure or AWS) = Cloud Data Engineer. 
+	 ● Python + SQL+ (PowerBI or Tableau) = Data Analyst
+	 ● Python + Django = Python Developer
+ 
+➤ Duration 4 months
+ 
+ ●  Agenda for today
+	 1) What is python?
+	 2) Reason for Popular
+	 3) What set python aprt?
+	 4) where python is used
+	 5) Who is using python
+	 6) Application of python
+ 
+ 
+1) What is python?
+   ● Python is a high-level programming language created by Guido Van
+     Rossum. 
+   ● Today Python interpreters are available for many Operating 
+	 Systems including Windows and Linux.
+   ● It can be use for Data Engineering, Data Science, web development etc.
+   ● High Level Language:- English 
+   ● Low level Language:- 0 and 1. (Computer Understand low level)
+	  •	Python was developed by Guido Van Rossum in 1989 (Developed)
+	  •	Official it was launch in 1991 feb 20th.
+	  •	Python is first programming language for beginner
+	  
+	  1.  To print Hello in Java it requires 7-8 line code,
+	  2.  To print “Hello” in python it is 1 line code.
+	  
+	●	How Python Name is derived:- Name is deriverd by the TV shows 
+		“ The Complete Monty’s python’s Circus “ On BBC in 1974.
+
+
+	1.	Function programming from c
+	2.	Objet oriented programming language and  Cpp (C++)
+	3.	Shell Scripting Package
+	4.	Pearl
+
+	● Python Application
+		1.	Desktop
+		2.	Web application
+		3.	Database
+		4.	Network Analysis
+		5.	Data Analysis
+		6.	Machine learning
+		7.	AI
+		8.	IOT
+		9.  Data Visulazation.
+		10. Data science.
+		
+	All are using python like Big Firm youtube,NASA and top MNC firm.
+
+	●	python + Java   	= Jython
+	●	python + C  		= Cython
+	●	python + .net       = Ironpython
+	●	python + Spark      = pyspark  (Relate to Big Data Concept)
+	●	python + Sele       = pysele
+	●	python + Hadoop     = pyhadoop
+
+	➤ Features of Python
+		1.	Simple and easy to learn
+		2.	Syntax very simple
+		3.	Less no of code
+		4.	Freeware & open source
+		5.	High level programming
+		6.	Platform Independent
+		7.	Dynamically typed- No need to define variable 
+		8.	Interpeted Language
+		9.	Extensive Library (Package of code)
+		10.	Both Procedural and object oriented programming.
+
+	➤ C++/ java have  :- Editor +  Compiler + Interpret/ Debugger.
+
+	➤ Python :- Editor and Interpret (IMP)
+
+➤   What is Compiler :
+		It convert High to low level Language.
+		Check the syntax
+
+➤ Limitations of Python 
+	1.	Not Suitable for Mobile application
+	2.	Backward Compatibility Issues (you can’t work python 2.0 file
+		on python 3.0) or python 3.0 in python 2.0)
+		
+➤ Evolution of python version (Important Question)
+	1.	Python 1.0 in January 1994
+	2.	Python 2.0 in October 2000
+	3.	Python 3.0 in December 2008
+
+
+➤	In Interview we should always say .
+    That I have work on 2.X something or 3.2 Version.
+
+➤	New Version are brought in market to add new thing and 
+	changes in existing  version to remove the bugs.
+
+
+➤  Difference between two version  (Interview Quesetion)
+		Print “hello”  -  python 2.0 
+		Print(‘hello”) – python 3.0
+
+
+➤  Python Editor or Coding writing platforms
+		•	Notepad
+		•	Pycharm
+		•	Spyder
+		•	Jupyter Notebook (We will be using this)
+
+ Reason for Popular
+	 3) What set python apart?
+	 4) where python is used
+	 5) Who is using python
+	 6) Application of python
+ 
+2)  Reasons for Popularity
+    There are several reason for popularity
+	
+	(a) Free:
+		- Python is free to use and distribute and is supported by
+		community.
+		- Python interpreter is available for every major platform.
+	(b) Software quality:
+		- Better than traditional and scripting languages.
+		- Readable code, hence reusable and maintainable.
+		- Support for advance reuse mechanisms.
+	(c) Developer productivity:
+		- Much better than statically typed languages.
+		- Much smaller code.
+		- Less to type, debug and maintain.
+		- No lengthy compile and link steps.
+	(d) Program portability:
+		- Python programs run unchanged on most platforms.
+		- Python runs on every major platform currently in use.
+		- Porting program to a new platform usually need only cut and
+		  paste. This is true even for GUI, DB access, Web programming,
+		  OS interfacing, Directory access, etc.
+	(e) Support libraries:
+		- Strong library support from Text pattern matching to
+		  networking.
+		- Vast collection of third party libraries.
+		- Libraries for Web site construction, Numeric programming,
+		  Game development, Machine Learning etc.
+	(f) Component integration:
+		- Can invoke C, C++ libraries and Java components.
+		- Can communicate with frameworks such as COM, .NET.
+		- Can interact over networks with interfaces like SOAP, XML-RPC,
+		  CORBA.
+		- With appropriate glue code, Python can subclass C++, Java, C#.
+		  classes, thereby extending the reach of the program.
+		- Popularly used for product customization and extension.
+	(g) Enjoyment:
+		- Ease of use.
+		- Built-in toolset.
+		- Programming becomes pleasure than work
+		
+3)  What sets Python apart?
+	(a) Powerful:
+		- Dynamic typing.
+		- No variable declaration.
+		- Automatic allocation and Garbage Collection.
+		- Supports classes, modules and exceptions.
+		- Permits componentization and reuse.
+		- Powerful containers - Lists, Dictionaries, Tuples,Set etc.
+	(b) Ready-made stuff:
+		- Support for operations like joining, slicing, sorting, mapping, etc.
+		- Powerful library.
+		- Large collection of third-party utilities.
+	(c) Ease of use:
+		- Type and run.
+		- No compile and link steps.
+		- Interactive programming experience.
+		- Rapid turnaround.
+		- Programs are simpler,smaller and more flexible.
+
+4)  Where is Python used?
+	Python is used for multiple purposes. These include:
+		(a) System programming
+		(b) Building GUI applications
+		(c) Internet scripting
+		(d) Component integration
+		(e) Database programming
+		(f) Rapid prototyping
+		(g) Numeric and Scientific programming
+		(h) Game programming
+		(i) Robotics programming
+		
+5)  Who uses Python today?
+	Many organizations use Python for varied purposes. These include:
+		(a) Google - In web search system
+		(b) YouTube - Video Sharing service
+		(c) Bit-torrent - Peer to Peer file sharing system
+		(d) Intel, HP, Seagate, IBM, Qualcomm - Hardware testing
+		(e) Pixar, Industrial Light and Magic - Movie animation
+		(f) JP Morgan, Chase, UBS - Financial market forecasting
+		(g) NASA, FermiLab - Scientific programming
+		(h) iRobot - Commercial robot vacuum cleaners
+		(i) NSA - Cryptographic and Intelligence analysis
+		(j) IronPort - Email Servers.
+
